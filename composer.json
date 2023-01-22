@@ -1,0 +1,20 @@
+{
+    "name": "yandricr/ytdownloader-fts",
+    "description": "Convert youtube links to download formats and get video data",
+    "keywords": ["yt", "youtube downloader", "youtube download", "yt downloader", "yt download", "video", "audio", "youtube", "download", "ytdownloader", "ytdownload", "youtube formats", "formats", "download", "downloader", "yt formats"],
+    "type": "library",
+    "readme": "README.md",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yandricr",
+            "email": "yandribret@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ytfts\\Downloader\\": "src/"
+        }
+    }
+}
